@@ -15,8 +15,8 @@ setup(
     long_description_content_type='text/markdown',
     author='Matt Clarke',
     author_email='matt@practicaldatascience.co.uk',
-    url='https://github.com/practicaldatascience/gitlab-issue-creator',
-    download_url='https://github.com/practicaldatascience/gitlab-issue-creator/archive/master.zip',
+    url='https://github.com/practical-data-science/gitlab-issue-creator',
+    download_url='https://github.com/practical-data-science/gitlab-issue-creator/archive/master.zip',
     keywords=['python', 'gitlab'],
     classifiers=[
         'Development Status :: 3 - Alpha',
